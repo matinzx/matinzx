@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋!I am a devops engineer and full stack developer
+love to run
+Exercise is a priority
+I saw that I have to make the hard work easy for myself</h2>
 
 ###
 
